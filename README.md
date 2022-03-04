@@ -2,7 +2,7 @@
 
 ---
 
-https://stupefied-bhabha-53e4c0.netlify.app/
+https://simplified-travel-advisor-clone-react.netlify.app/
 
 ## Uses Google Maps API, local location, Materials-UI, Travel Advisor API (RapidAPI), and Weather API (RapidAPI)
 
